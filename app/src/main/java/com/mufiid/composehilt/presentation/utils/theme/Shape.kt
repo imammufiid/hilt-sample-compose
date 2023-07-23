@@ -1,4 +1,4 @@
-package com.mufiid.composehilt.ui.theme
+package com.mufiid.composehilt.presentation.utils.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes
